@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/Test/.vs
+/Test/.vs/ConsoleApp1.csproj.dtbcache.json
+/Test/bin/Debug
+/Test/obj
+/TestTests/bin/Debug
+/TestTests/obj
+/TestTests/.vs
+/.vs
